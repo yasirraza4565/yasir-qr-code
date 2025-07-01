@@ -1,0 +1,185 @@
+ @media (max-width:320px) {
+     .home {
+         width: 85%;
+     }
+
+     #mainContainer {
+         flex-wrap: wrap;
+         flex-direction: column;
+     }
+
+     .homeContainer {
+         width: 100%;
+         margin: 18px 0px;
+     }
+
+     .sidebar img {
+         width: 55%;
+         margin-bottom: 4px;
+     }
+
+     #qrPopup {
+         height: 400px;
+     }
+
+     #qrImg {
+         width: 55%;
+     }
+ }
+
+ @media (max-width:350px) {
+     .sidebar img {
+         width: 50%;
+         margin-bottom: 5px;
+     }
+
+     .homeContainer {
+         width: 100%;
+         margin: 18px 0px;
+     }
+
+     #mainContainer {
+         flex-wrap: wrap;
+         flex-direction: column;
+     }
+
+     .home {
+         width: 85%;
+     }
+
+     #qrPopup {
+         height: 400px;
+     }
+
+     #qrImg {
+         width: 58%;
+     }
+ }
+
+ @media (max-width:400px) {
+     .sidebar img {
+         width: 60%;
+         margin-bottom: 5px;
+     }
+
+     #mainContainer {
+         flex-wrap: wrap;
+         flex-direction: column;
+     }
+
+     .homeContainer {
+         width: 100%;
+         margin: 18px 0px;
+     }
+
+     .home {
+         width: 80%;
+     }
+
+     #qrPopup {
+         height: 400px;
+     }
+
+     #qrImg {
+         width: 60%;
+     }
+ }
+
+ @media (max-width:450px) {
+     #qrPopup {
+         height: 400px;
+     }
+
+     #qrImg {
+         width: 60%;
+     }
+
+     .sidebar img {
+         width: 60%;
+         margin-bottom: 5px;
+     }
+
+     .home {
+         width: 80%;
+     }
+ }
+
+ @media (max-width:500px) {
+     #qrPopup {
+         height: 400px;
+     }
+
+     #qrImg {
+         width: 60%;
+     }
+
+     .home {
+         width: 80%;
+     }
+ }
+
+ @media (max-width:550px) {
+     .home {
+         width: 80%;
+     }
+ }
+
+ @media (max-width:600px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:650px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:700px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:750px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:800px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:850px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:900px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:950px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:1000px) {
+     .home {
+         width: 85%;
+     }
+ }
+
+ @media (max-width:1024px) {
+     .home {
+         width: 85%;
+     }
+ }
